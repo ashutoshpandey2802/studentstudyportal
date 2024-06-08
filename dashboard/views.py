@@ -30,3 +30,4 @@ def delete_note(request,pk=None):
 
 def NotesDetailView ( DetailView):
     model=Notes
+    
